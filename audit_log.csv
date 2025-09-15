@@ -1,0 +1,104 @@
+timestamp,username,decision,score,reason,model_version,client
+2025-09-15 18:46:57,memooom,denied,0.224,mismatch,stub-0.2,api
+2025-09-15 18:46:57,memooom,denied,0.224,mismatch,stub-0.2,api
+2025-09-15 19:37:50,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 19:39:16,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 19:40:29,pins_Amanda Crew,denied,1.0,mismatch,onnx,api
+2025-09-15 19:40:33,pins_Amanda Crew,denied,1.0,mismatch,onnx,api
+2025-09-15 19:40:44,pins_Amanda Crew,denied,1.0,mismatch,onnx,api
+2025-09-15 19:50:03,pins_Amanda Crew,denied,1.0,mismatch,onnx,api
+2025-09-15 19:50:30,pins_Amanda Crew,denied,1.0,mismatch,onnx,api
+2025-09-15 19:51:12,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 19:51:14,pins_Alvaro Morte,denied,0.0,locked_58s,onnx,api
+2025-09-15 19:51:49,pins_Alvaro Morte,denied,0.0,locked_22s,onnx,api
+2025-09-15 19:55:07,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:31:15,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:31:59,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:32:29,motasem,denied,1.0,user_not_in_model:motasem,onnx,api
+2025-09-15 20:34:18,"""pins_Alvaro Morte""",denied,1.0,"user_not_in_model:""pins_Alvaro Morte""",onnx,api
+2025-09-15 20:34:36,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:50:27,motasem,denied,1.0,user_not_in_model:motasem,onnx,api
+2025-09-15 20:51:06,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:51:15,Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:51:16,Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 20:51:36,Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 21:26:27,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 21:26:33,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 21:27:32,pins_Alvaro Morte,denied,0.022,mismatch,onnx,api
+2025-09-15 21:27:38,Alvaro Morte,denied,0.022,mismatch,onnx,api
+2025-09-15 21:27:39,Alvaro Morte,denied,0.022,mismatch,onnx,api
+2025-09-15 21:27:44,Alvaro,denied,0.022,mismatch,onnx,api
+2025-09-15 21:27:53,Alvaro,denied,1.0,mismatch,onnx,api
+2025-09-15 21:36:30,pins_Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 21:36:34,pins_Alvaro Morte,denied,0.0,no_image,onnx,api
+2025-09-15 21:36:36,pins_Alvaro Morte,denied,0.0,no_image,onnx,api
+2025-09-15 21:36:41,pins_Alvaro Morte,denied,0.022,mismatch,onnx,api
+2025-09-15 21:36:42,pins_Alvaro Morte,denied,0.022,mismatch,onnx,api
+2025-09-15 21:36:58,Alvaro Morte,denied,1.0,mismatch,onnx,api
+2025-09-15 21:41:48,pins_Andy Samberg,denied,0.869,mismatch,onnx,api
+2025-09-15 21:59:41,alvaro,denied,1.0,low_conf_claim,onnx,api
+2025-09-15 22:12:47,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:13:47,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:13:53,alvaro,denied,0.0,no_image,onnx,api
+2025-09-15 22:14:10,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:14:26,alvaro morata,denied,1.0,user_not_in_model:alvaro morata,onnx,api
+2025-09-15 22:18:34,alvaro,granted,0.869,ok,onnx,api
+2025-09-15 22:18:36,alvaro,granted,0.869,ok,onnx,api
+2025-09-15 22:19:06,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:20:08,pins_Amanda Crew,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:20:58,pins_Bill Gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:21:07,Bill Gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:21:14,Bill Gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:21:29,Bill Gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:21:55,pins_Bill Gates,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:22:04,_Bill Gates,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:24:36,_Bill Gates,granted,1.0,ok,onnx,api
+2025-09-15 22:24:38,_Bill Gates,granted,1.0,ok,onnx,api
+2025-09-15 22:24:39,_Bill Gates,granted,1.0,ok,onnx,api
+2025-09-15 22:24:40,_Bill Gates,granted,1.0,ok,onnx,api
+2025-09-15 22:24:54,bill,granted,1.0,ok,onnx,api
+2025-09-15 22:25:07,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:25:19,alvaro,granted,0.869,ok,onnx,api
+2025-09-15 22:33:00,alvaro,denied,1.0,low_conf_claim,onnx,api
+2025-09-15 22:33:34,andy,denied,0.869,low_conf_claim,onnx,api
+2025-09-15 22:33:35,andy,denied,0.869,low_conf_claim,onnx,api
+2025-09-15 22:33:41,andy,denied,0.869,low_conf_claim,onnx,api
+2025-09-15 22:33:51,bill,denied,0.511,low_conf_claim,onnx,api
+2025-09-15 22:33:52,bill,denied,0.511,low_conf_claim,onnx,api
+2025-09-15 22:34:03,bill gates,denied,0.511,low_conf_claim,onnx,api
+2025-09-15 22:34:04,bill gates,denied,0.511,low_conf_claim,onnx,api
+2025-09-15 22:34:05,bill gates,denied,0.511,low_conf_claim,onnx,api
+2025-09-15 22:34:05,bill gates,denied,0.0,locked_59s,onnx,api
+2025-09-15 22:34:06,bill gates,denied,0.0,locked_58s,onnx,api
+2025-09-15 22:38:19,alvaro,denied,1.0,low_conf_claim,onnx,api
+2025-09-15 22:40:10,alvaro,denied,1.0,low_conf_claim,onnx,api
+2025-09-15 22:40:15,alvaro,denied,1.0,low_conf_claim,onnx,api
+2025-09-15 22:40:17,alvaro,denied,1.0,low_conf_claim,onnx,api
+2025-09-15 22:40:19,alvaro,denied,0.0,locked_57s,onnx,api
+2025-09-15 22:40:33,alvaro,denied,0.0,locked_43s,onnx,api
+2025-09-15 22:42:07,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:43:16,andy,denied,0.869,name_sim<0.60,onnx,api
+2025-09-15 22:43:17,andy,denied,0.869,name_sim<0.60,onnx,api
+2025-09-15 22:43:24,andy,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:43:31,bill  gates,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:43:32,bill  gates,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:43:38,bill  gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:43:50,bill gates,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:44:20,Andy Samberg,granted,0.869,ok,onnx,api
+2025-09-15 22:44:54,Samberg,granted,0.869,ok,onnx,api
+2025-09-15 22:45:05,Samberg,granted,0.869,ok,onnx,api
+2025-09-15 22:46:14,gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:46:40,Bill Gates,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 22:49:40,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 22:50:00,gates,denied,0.035,name_sim<0.60,onnx,api
+2025-09-15 22:51:03,Brie Larson,granted,0.754,ok,onnx,api
+2025-09-15 22:51:20,Larson,granted,0.754,ok,onnx,api
+2025-09-15 23:12:51,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 23:13:06,alvaro,granted,0.869,ok,onnx,api
+2025-09-15 23:13:18,alvaro,granted,0.869,ok,onnx,api
+2025-09-15 23:13:38,motasem,denied,1.0,user_not_in_model:motasem,onnx,api
+2025-09-15 23:13:56,alvaro,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 23:14:09,alvaro,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 23:14:36,alvaro,denied,0.511,name_sim<0.60,onnx,api
+2025-09-15 23:17:44,alvaro,granted,1.0,ok,onnx,api
+2025-09-15 23:18:14,alvaro,denied,0.035,name_sim<0.60,onnx,api
